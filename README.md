@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- ⚡ Fun fact **Always Fun**
+- ⚡ Fun fact **Always Happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
