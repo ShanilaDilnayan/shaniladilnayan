@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shanila Dilnayan</h1>
-<h3 align="center">I am a full-stack software developer.</h3>
+<h3 align="center">I am currently working as a full-stack software developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaniladilnayan&label=Profile%20views&color=0e75b6&style=flat" alt="shaniladilnayan" /> </p>
 
